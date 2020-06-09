@@ -23,7 +23,11 @@
 ## Installation
 * Clone Git    : `git clone https://github.com/ryanrocket/vumt.git`
 * Change Dir   : `cd vumt`
-* Run File     : `python vmt.py`
-
+* Make Exec    : `chmod a+x vumt`
+* Execute      : `./vumt`
+-- -- OR -- -- 
+* Clone Git    : `git clone https://github.com/ryanrocket/vumt.git`
+* Change Dir   : `cd vumt`
+* Execute      : `python vumt.zip`
 
 More updates on the way!
