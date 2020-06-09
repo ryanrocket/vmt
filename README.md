@@ -25,9 +25,9 @@
 * Change Dir   : `cd vumt`
 * Make Exec    : `chmod a+x vumt`
 * Execute      : `./vumt`
-\n-- -- OR -- -- \n
+<br>-- -- OR -- -- <br>
 * Clone Git    : `git clone https://github.com/ryanrocket/vumt.git`
 * Change Dir   : `cd vumt`
 * Execute      : `python vumt.zip`
-\n\n
+<br><br>
 More updates on the way!
